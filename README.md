@@ -29,9 +29,9 @@ Welcome to my GitHub profile! I am actively working on bridging the gap between 
 ---
 
 ## 📫 **Connect with Me**
-- 🌐 [LinkedIn](#)
+- 🌐 [LinkedIn](www.linkedin.com/in/dinesh-yuvaraj-ba46bb25b)
 - 🐦 [Twitter](#)
-- ✉️ [Email](mailto:your-email@example.com)
+- ✉️ [Email](mailto:dineshyuvaraj1997@gmail.com)
 
 ---
 
