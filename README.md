@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I am actively working on bridging the gap between 
 ---
 
 ## 📫 **Connect with Me**
-- 🌐 [LinkedIn](www.linkedin.com/in/dinesh-yuvaraj-ba46bb25b)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/dinesh-yuvaraj-ba46bb25b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🐦 [Twitter](#)
 - ✉️ [Email](mailto:dineshyuvaraj1997@gmail.com)
 
