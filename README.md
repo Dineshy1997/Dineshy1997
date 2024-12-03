@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Dinesh!
 
 🎓 **Passionate Developer & AI Enthusiast** | 🌟 **Problem Solver** | 📊 **Data Science Explorer**
 
